@@ -1,0 +1,17 @@
+Grade: 
+
+1/1p Sigmoid
+1.5/1.5p Relu
+1/1p Softmax
+2/2p Linear Layer
+1/1p Sequential Network
+4.5/4.5p Experiment
+1.5/1.5p Bonus
+
+Total: 11/11p + 1.5p = 12.5p
+
+Feedback:
+All implemented correctly. Nice work!
+
+Jinwoo
+

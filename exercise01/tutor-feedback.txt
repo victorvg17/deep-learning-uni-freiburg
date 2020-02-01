@@ -1,0 +1,8 @@
+Grade: 3/3.5
+
+a. Correct.
+b. You should actually compute the norms of the columns of Q and the dot product of them in order to show that the norms are 1 and the product is zero, instead of having an if-else statement. (-0.5)
+c. Correct.
+d. Correct.
+
+Jinwoo

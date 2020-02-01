@@ -1,0 +1,26 @@
+Pen/paper 1.5/2
+skip 1/1
+calculate 3/3
+relu 0.5/1
+linear 2/2
+cross-entropy 1/1
+sequential 1/1
+grad checking 1/1
+experiment 2/2
+questions 2/2
+
+Total grade: 15 + 1.5 = 16.5/16
+
+feedback:
+
+Pen/paper: You didn’t do forward pass. In the second line, dy_hat/dz_2 is 1, not z2. Other than that it is all correct. (-0.5)
+
+Calculation: The mistake above messed up all the calculations. But except of that you understood how it works so I won’t deduct points.
+
+Relu: the gradient where z is positive is 1, not z. (-0.5)
+
+
+well done!
+
+Best,
+Jinwoo
